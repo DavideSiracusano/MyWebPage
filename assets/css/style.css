@@ -1,0 +1,53 @@
+body{
+  font-family: "Hedvig Letters Serif", serif;
+  font-family: "Roboto", sans-serif;
+  background: linear-gradient(to top right, #666699 0%, #333399 100%);
+  color: whitesmoke;
+}
+.navbar-brand{
+  color: antiquewhite;
+}
+.nav-link{
+  color: rgb(150, 89, 207);
+}
+img{
+  height: 15px;
+}
+.img-responsive {
+  height: 100px;
+  width: 102px;
+  border-radius: 50%;
+  border: solid;
+  filter: drop-shadow(0 0 20px rgb(129, 178, 213));
+}
+#skills {
+  font-size: larger;
+  color: rgb(150, 89, 207);
+}
+#text-1 {
+  color: whitesmoke;
+}
+#text-2 {
+  color: whitesmoke;
+}
+#text-3 {
+  color: whitesmoke;
+}
+.bottom-section{
+  display: flex;
+  flex-direction: row;
+}
+.left-section{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex: 1;
+}
+.right-section{
+  display: flex;
+  justify-content: end;
+}
+.s2i{
+  margin-right: 20px;
+  height: 20px;
+}
