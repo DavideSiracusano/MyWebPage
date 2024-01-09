@@ -1,16 +1,16 @@
-body{
+body {
   font-family: "Hedvig Letters Serif", serif;
   font-family: "Roboto", sans-serif;
   background: linear-gradient(to top right, #666699 0%, #333399 100%);
   color: whitesmoke;
 }
-.navbar-brand{
+.navbar-brand {
   color: antiquewhite;
 }
-.nav-link{
+.nav-link {
   color: rgb(150, 89, 207);
 }
-img{
+img {
   height: 15px;
 }
 .img-responsive {
@@ -33,21 +33,21 @@ img{
 #text-3 {
   color: whitesmoke;
 }
-.bottom-section{
+.bottom-section {
   display: flex;
   flex-direction: row;
 }
-.left-section{
+.left-section {
   display: flex;
   justify-content: flex-start;
   align-items: center;
   flex: 1;
 }
-.right-section{
+.right-section {
   display: flex;
   justify-content: end;
 }
-.s2i{
+.s2i {
   margin-right: 20px;
   height: 20px;
 }
