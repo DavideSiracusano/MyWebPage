@@ -20,6 +20,13 @@ img {
   border: solid;
   filter: drop-shadow(0 0 20px rgb(129, 178, 213));
 }
+#profile {
+  transition: cubic-bezier(0.37, 0.65, 0.83, 0.67) 1.5s;
+}
+.hover {
+  transform: scale(1);
+  border-radius: 0;
+}
 #skills {
   font-size: larger;
   color: rgb(150, 89, 207);
